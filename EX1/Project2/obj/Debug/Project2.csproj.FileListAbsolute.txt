@@ -1,0 +1,7 @@
+C:\Users\PC - ASUS\source\repos\EX1\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\PC - ASUS\source\repos\EX1\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\PC - ASUS\source\repos\EX1\Project2\bin\Debug\Project2.exe.config
+C:\Users\PC - ASUS\source\repos\EX1\Project2\bin\Debug\Project2.exe
+C:\Users\PC - ASUS\source\repos\EX1\Project2\bin\Debug\Project2.pdb
+C:\Users\PC - ASUS\source\repos\EX1\Project2\obj\Debug\Project2.exe
+C:\Users\PC - ASUS\source\repos\EX1\Project2\obj\Debug\Project2.pdb

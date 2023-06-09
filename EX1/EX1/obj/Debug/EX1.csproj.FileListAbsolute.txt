@@ -1,0 +1,7 @@
+C:\Users\PC - ASUS\source\repos\EX1\EX1\bin\Debug\EX1.exe.config
+C:\Users\PC - ASUS\source\repos\EX1\EX1\bin\Debug\EX1.exe
+C:\Users\PC - ASUS\source\repos\EX1\EX1\bin\Debug\EX1.pdb
+C:\Users\PC - ASUS\source\repos\EX1\EX1\obj\Debug\EX1.csproj.AssemblyReference.cache
+C:\Users\PC - ASUS\source\repos\EX1\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+C:\Users\PC - ASUS\source\repos\EX1\EX1\obj\Debug\EX1.exe
+C:\Users\PC - ASUS\source\repos\EX1\EX1\obj\Debug\EX1.pdb
